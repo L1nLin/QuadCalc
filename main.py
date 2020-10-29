@@ -109,7 +109,7 @@ def calculator():  # calculator variable input system
                 if goto == True:
                     break
                 else:
-                    print("Enter value for b. Enter 'c' to cancel.")
+                    print("Enter value for b/h. Enter 'c' to cancel.")
                     b_str = input()
                     try:
                         b_str = float(b_str)
@@ -128,7 +128,7 @@ def calculator():  # calculator variable input system
                 if goto == True:
                     break
                 else:
-                    print("Enter value for c. Enter 'c' to cancel.")
+                    print("Enter value for c/k. Enter 'c' to cancel.")
                     c_str = input()
                     try:
                         c_str = float(c_str)
