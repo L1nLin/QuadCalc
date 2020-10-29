@@ -1,5 +1,5 @@
 # QuadCalc
-QuadCalc is an x-axis intersection point calculator for quadratic functions. When the variables of the function are entered, it will calculate the intersection using the ABC formula (for functions in vertex form, QuadCalc converts h and k to their standard form values and then uses the formula).
+QuadCalc is an x-axis intersection point calculator for quadratic functions. When the variables of the function are entered, it will calculate the intersection using the ABC formula (for functions in vertex form, QuadCalc converts h and k to their standard form values and then uses those values in the formula).
 
 # How to use
 QuadCalc runs in the command prompt. To select an option from the menus, type the number of the desired option and press the 'enter' key.
